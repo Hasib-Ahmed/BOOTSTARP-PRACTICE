@@ -1,0 +1,15 @@
+.box{
+  min-height: 80px;
+  background-color: red;
+  margin-bottom: 10px;
+
+}
+.col-sm{
+   min-height: 80px;
+  background-color: red;
+  margin-bottom: 10px;
+}
+.col-lg-12{
+  text-align: center;
+  font-size: 40px;
+}
